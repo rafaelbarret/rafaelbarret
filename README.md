@@ -1,7 +1,6 @@
 ## Hi, i'm rafaelbarret!
 
-- 🔭 I’m currently working on back-end;
-- 🌱 I’m currently learning python, data-science, machine learning, django;
+- 🌱 I’m currently learning python;
 - 📫 How to reach me for a job: rafaelferreiraproductions@gmailcom;
 - 😄 Pronouns: he/her;
 
