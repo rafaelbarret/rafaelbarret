@@ -7,7 +7,7 @@
 <a href="https://github.com/rafaelbarret/github-readme-stats">
   <img height=198 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelbarret&theme=dark&show_icons=true)" />
 </a>
-##
+
 <a href="https://github.com/rafaelbarret/convoychat">
   <img height=198 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelbarret&theme=dark&show_icons=true&layout=compact&langs_count=8&card_width=300" />
 </a>
