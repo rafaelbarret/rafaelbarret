@@ -1,6 +1,6 @@
 ## Hi, i'm rafaelbarret!
 
-- 🌱 I’m currently learning python;
+- 🌱 I’m currently learning JavaScript;
 - 📫 How to reach me for a job: rafaelferreiraproductions@gmailcom;
 - 😄 Pronouns: he/her;
 
@@ -12,10 +12,9 @@
 </a>
 
 <a><img height=60 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height=60 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img height=70 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img height=55 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img height=70 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />         
+  <img height=60 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height=70 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />     
+  <img height=55 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
 </a>
 ##
 <a href= "mailto:rafaelferreiraproductions@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
