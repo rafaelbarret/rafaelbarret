@@ -23,11 +23,11 @@ I'm a student of Web development and cybersecurity. I am an enthusiast of techno
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbarret&theme=great-gatsby" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbarret&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelbarret&theme=great-gatsby" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelbarret&theme=great-gatsby" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelbarret&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelbarret&theme=github_dark" />
 </p>
   
                
