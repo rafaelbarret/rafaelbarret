@@ -23,17 +23,18 @@ I'm a student of Web development and cybersecurity. I am an enthusiast of techno
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbarret&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbarret&theme=monokai" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelbarret&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelbarret&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelbarret&theme=monokai" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelbarret&theme=monokai" />
 </p>
   
                
 </a> 
 
-##
+## Meus contatos
+
 <a href= "mailto:rafaelferreiraproductions@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href= "https://https://www.linkedin.com/in/rafael-barreto-ferreira-5420b22ba/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
            
