@@ -1,7 +1,7 @@
 <img align="right" height="380em" src="https://raw.githubusercontent.com/gist/rafaelbarret/24e5983dc515503feb4cbf1a14c3a42c/raw/1310698ab0ab52a21596a617baa54731f6f1c58c/gistcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Barreto</h1>
 
-I'm a student of Web development and cybersecurity anda an enthusiast of technology and all its benefits.
+I'm a student of Web development and cybersecurity and an enthusiast of technology and all its benefits.
 
 ### Languages and Tools
 <p>
