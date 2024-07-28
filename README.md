@@ -39,7 +39,7 @@ I'm a student of Web development and cybersecurity and an enthusiast of technolo
 ## My contacts
 
 <a href= "mailto:rafaelferreiraproductions@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "https://https://www.linkedin.com/in/rafael-barreto-ferreira-5420b22ba/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/rafael-barreto-ferreira-5420b22ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
            
 
 
